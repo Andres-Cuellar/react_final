@@ -1,0 +1,63 @@
+body {
+  font-family: "Rubik", sans-serif;
+  overflow-x: hidden;
+  height: 100vh;
+}
+
+#root {
+  height: 100vh;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.nav li {
+  margin: 10px 0;
+}
+
+.nav li a {
+  color: #f8f9fa !important;
+  font-weight: bold;
+}
+
+.nav li a i {
+  margin-right: 15px;
+  font-size: 1.2rem;
+}
+
+.nav li a:hover {
+  color: #ff9800 !important;
+}
+
+.social-networks a i {
+  margin: 0 10px;
+  color: #f8f9fa;
+}
+
+.overflow {
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.fact-item span i {
+  font-size: 50px;
+  margin-right: 10px;
+  margin-top: 5px;
+  color: #ff9800 !important;
+}
+
+.card-body a i {
+  margin: 20px 0;
+  font-size: 35px;
+}
+
+.card-body a {
+  margin-top: 20px;
+  font-size: 35px;
+}
+
+.card div a i,
+.graduation {
+  color: #ff9800 !important;
+}

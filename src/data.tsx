@@ -1,0 +1,61 @@
+export const worksArray = [
+    {
+      picture: "https://cuellar.dev/images/works/work1.jpg",
+      month: "Nov.",
+      year: 2021,
+      project: "Huila Recicla | App iOS & Android",
+      description:
+        "App y Pagina web, desarrolladas para el proyecto Huila Recicla de la Gobernación del Huila",
+      link: "https://huilarecicla.co/",
+      category: 0,
+    },
+    {
+      picture: "https://cuellar.dev/images/works/work2.jpg",
+      month: "Oct.",
+      year: 2021,
+      project: "Terminal de Pitalito | Web App",
+      description:
+        "Apliacion web para la terminal de Pitalito La primera web de Colombia con modulo de Salidas por horario de buses, incluye el modulo de compra de redbus, y formulario de PQR online",
+      link: "https://tuterminalpitalito.com/",
+      category: 0,
+    },
+    {
+      picture: "https://cuellar.dev/images/works/work7.jpg",
+      month: "Jun",
+      year: 2021,
+      project: "Software POS | WebApp",
+      description:
+        "Sistema de punto de venta online para Restaurante y Bares Acceso por credenciales Catalogo de productos, categorías y unidades de medida  y más caracteristicas  ",
+      link: "#",
+      category: 0,
+    },
+    {
+      picture:
+        "https://glumpstudio.com/wp-content/uploads/2022/07/imagen_2022-07-19_235749664.png",
+      month: "Jun.",
+      year: 2022,
+      project: "Plaza Majagua | Páginas Webs",
+      description: "",
+      link: "",
+      category: 0,
+    },
+    {
+      picture:
+        "https://glumpstudio.com/wp-content/uploads/2022/07/imagen_2022-07-20_000906433.png",
+      month: "",
+      year: 0,
+      project: "Mary Yate | Página Web",
+      description: "",
+      link: "",
+      category: 0,
+    },
+    {
+      picture: "https://cuellar.dev/images/works/work8.jpg",
+      month: "Feb.",
+      year: 2022,
+      project: "Tivi Plus | Página Web",
+      description: "",
+      link: "",
+      category: 0,
+    },
+  ];

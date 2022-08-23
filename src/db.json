@@ -1,0 +1,34 @@
+{
+  "menu": [
+    {
+      "icon": "fa-house",
+      "title": "Inicio",
+      "link": "home"
+    },
+    {
+      "icon": "fa-circle-user",
+      "title": "Sobre mi",
+      "link": "about"
+    },
+    {
+      "icon": "fa-briefcase",
+      "title": "Servicios",
+      "link": "services"
+    },
+    {
+      "icon": "fa-graduation-cap",
+      "title": "Expericia",
+      "link": "experience"
+    },
+    {
+      "icon": "fa-diagram-project",
+      "title": "Proyectos",
+      "link": "projects"
+    },
+    {
+      "icon": "fa-message",
+      "title": "Contacto",
+      "link": "contact"
+    }
+  ]
+}
